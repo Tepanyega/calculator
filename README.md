@@ -14,13 +14,27 @@ This project implements a simple calculator that evaluates mathematical expressi
 - Java 17 or 23
 - Maven (for dependency management)
 
-## Installation
-
 ### Clone the Repository
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/calculatorFinal.git
-cd calculatorFinal
+git clone https://github.com/Tepanyega/calculator.git
+```
+
+## Test Results
+ 
+Below are test case screenshots:
+ 
+### Successful Calculation Test
+ ![image](https://github.com/user-attachments/assets/91821ce3-1087-47b4-93e1-9fb26ba5697e)
+
+### Testing InvalidExpression
+![image (5)](https://github.com/user-attachments/assets/4299ebb6-7ba1-433b-99a6-8fee748168ee)
+
+### Testing Complex expression
+![image (6)](https://github.com/user-attachments/assets/accca07f-bbee-42d7-ace4-269e2a641dc1)
+
+
+ 
 
